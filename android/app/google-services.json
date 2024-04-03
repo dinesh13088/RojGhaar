@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748971110494",
+    "project_id": "rojghaar",
+    "storage_bucket": "rojghaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748971110494:android:8fee187935203d7a35c4cf",
+        "android_client_info": {
+          "package_name": "com.example.rojghaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZXkfHKA5O30Qol9VJE9b8Yg4Ju7IaKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
